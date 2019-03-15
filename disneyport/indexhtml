@@ -23,8 +23,8 @@
  </nav>
  </div>
  <div id="welcome-section">
-     <h1 class="welcometxt"> <a href=Attractions.html>Magic Kingdom Attractions (click for API)</a></h1>
-     <h1 class="web"><a href=dining.html>Magic Kingdom Dining (click for API)</a></h1>
+     <h1 class="welcometxt"> <a href=index1.html>Magic Kingdom Attractions (click for API)</a></h1>
+     <h1 class="web"><a href=index2.html>Magic Kingdom Dining (click for API)</a></h1>
     
 
  </div>
